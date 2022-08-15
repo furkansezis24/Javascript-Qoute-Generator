@@ -35,8 +35,7 @@ body{
     border-radius: 15px;
     padding: 50px 40px;
     box-shadow: 0 0 10px;
-    overflow: auto;
-
+    overflow: auto; 
 }
 .main-content .text-area{
     font-size: 1.5rem;
